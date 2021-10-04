@@ -1,5 +1,5 @@
 # iOS-dev-is-simple
-Awesome material for iOS learners
+Awesome materials for iOS learners
 
 
 ## Courses
