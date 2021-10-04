@@ -7,6 +7,6 @@ Awesome materials for iOS learners
 2. Intro to iOS Development: https://ios-course.cornellappdev.com
 
 ## Tutorials
-1. Auto Layout: https://www.youtube.com/watch?v=9RydRg0ZKaI&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+1. Programatic Auto Layout: https://www.youtube.com/watch?v=9RydRg0ZKaI&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
 
 ## Books
