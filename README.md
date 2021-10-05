@@ -14,3 +14,4 @@ Awesome materials for iOS learners
 4. SwiftUI Advanced Level: https://www.youtube.com/watch?v=sdaFLQgR4xY&list=PLwvDm4Vfkdphc1LLLjCaEd87BEg07M97y
 
 ## Books
+1. Programming iOS 14 by Matt Neuburg: https://www.oreilly.com/library/view/programming-ios-14/9781492092162/
