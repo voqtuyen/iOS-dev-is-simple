@@ -20,6 +20,7 @@ Awesome materials for iOS learners
 
 ## Books
 1. Programming iOS 14 by Matt Neuburg: https://www.oreilly.com/library/view/programming-ios-14/9781492092162/
+2. iOS Tutorial Book - From Beginner to Pro by Jonathan Rasmusson: https://www.softcover.io/read/7671f69a/ios-tutorial-book/_single-page
 
 ## Roadmap
 TBD
