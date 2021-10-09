@@ -19,6 +19,11 @@ Awesome materials for iOS learners
 ## Tutorials
 1. UIPageViewController: https://github.com/jrasmusson/swift-arcade/tree/master/Design/SimpleOnboarding
 
+## Youtube Channels
+1. iOS Academy: https://www.youtube.com/c/iOSAcademy/playlists
+2. Lets Build That App: https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA
+
+
 ## Books
 1. Programming iOS 14 by Matt Neuburg: https://www.oreilly.com/library/view/programming-ios-14/9781492092162/
 2. iOS Tutorial Book - From Beginner to Pro by Jonathan Rasmusson: https://www.softcover.io/read/7671f69a/ios-tutorial-book/_single-page
