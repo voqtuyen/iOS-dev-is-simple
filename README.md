@@ -10,6 +10,7 @@ Awesome materials for iOS learners
 
 ## UIKit
 1. Programmatic Auto Layout: https://www.youtube.com/watch?v=9RydRg0ZKaI&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F
+2. UIView Properties: https://www.youtube.com/watch?v=_iJwiPGygOM&list=PLHDMmeIMXj8VF8K6ZpmTHaIzcBQxGRlht
 
 ## SwiftUI
 1. SwiftUI Bootcamp: https://www.youtube.com/watch?v=-Yp0LS61Nxk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO
