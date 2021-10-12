@@ -31,3 +31,6 @@ Awesome materials for iOS learners
 
 ## Roadmap
 TBD
+
+## FAQ
+1. What is tintColor? https://stackoverflow.com/questions/35950489/what-is-tint-in-xcode
